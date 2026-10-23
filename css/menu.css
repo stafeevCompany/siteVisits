@@ -1,0 +1,21 @@
+.menu_block{
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    border-radius:60px 60px 0 0 ;
+    display: flex;
+    justify-self: center;
+    align-self: flex-end;
+    width: 500px;
+    height: 60px;
+    background-color: #07100B;
+}
+.menu_block div a{
+    margin: 0 10px;
+}
+.menu_block div a img{
+    height: 50px;
+    width: 50px;
+
+}

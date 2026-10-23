@@ -1,0 +1,74 @@
+*{
+    border: 0;
+    bottom: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background-color: #222224;
+}
+.main_block{
+    filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.752));
+    position: relative;
+    margin: 10px;
+    background-color: #191919;
+    border-radius: 30px;
+    display: flex;
+    min-height: 97vh;
+    justify-content: center;
+    align-items: center;
+}
+.avatat_img_block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.avatar_img{
+    filter: drop-shadow(0px 0px 30px rgba(0, 203, 14, 0.5));
+    border-radius: 50%;
+    width: 25vw;
+    height: 25vw;
+}
+.fio{
+    text-align: center;
+    color: #2fc800;
+    filter: drop-shadow(0px 0px 15px rgba(0, 203, 14, 0.5));
+    padding: 0;
+    font-size: 10vw;
+}
+
+.social{
+    position: absolute;
+    display: flex;
+    width: 5vw;
+    height: 5vw;
+}
+.social img{
+   filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+    width: 100%;
+    height: 100%;
+}
+
+#tg{
+    right: 300px; top: 150px; bottom: 20px; filter: drop-shadow(1px 1px 5px rgba(0, 191, 255, 0.5));
+}
+#yt{
+    right: 100px; top: 300px; bottom: 30px; filter: drop-shadow(1px 1px 5px rgba(238, 4, 4, 0.5));
+}
+#bost{
+    right: 700px; top: 30px; bottom: 20px; filter: drop-shadow(1px 1px 5px rgba(238, 152, 4, 0.5));
+}
+#inst{
+   left: 120px; top: 60px; bottom: 20px; filter: drop-shadow(1px 1px 5px rgba(238, 4, 101, 0.677));
+}
+#git{
+    left: 160px; top: 300px; filter: drop-shadow(1px 1px 5px rgba(0, 0, 0, 0.5));
+}
+#rutube{
+   right: 20px; top: 520px; bottom: 20px; filter: drop-shadow(1px 1px 5px rgba(7, 0, 82, 0.5));
+}
+#vk{
+    right: 20px; top: 10px; bottom: 20px; filter: drop-shadow(1px 1px 5px rgba(4, 90, 238, 0.5));
+}

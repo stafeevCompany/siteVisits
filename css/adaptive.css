@@ -1,0 +1,88 @@
+@media (max-width: 812px) {
+  body{
+    width: 812px;
+    max-width: 100%;
+  }
+  .fio{
+    font-size: 10vw;
+  }
+  .main_block{
+    min-height: 57vh;
+}
+.avatar_img{
+    width: 50vw;
+    height: 50vw;
+}
+.aboutMe_blockAndImg{
+    display: block;
+}
+.aboutMe_block{
+   
+    width: 94vw;
+    min-height: 100vw;
+}
+.aboutMe_block h1{
+    font-size: 9vw;
+}
+.aboutMe_block p{
+    font-size: 5vw;
+}
+.imgAboutMe_block{
+    width: 100%;
+}
+.imgAboutMe_block img{
+    margin: 10px;
+    width: 94vw;
+    height: 40vh;
+}
+  marquee img{
+    min-width: 50px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .menu_block{
+    width: 100vw;
+    height: 60px;
+    border-radius:30px 30px 0 0 ;
+}
+
+.skils_block h1{
+    font-size: 9vw;
+}
+.skils_block h2{
+    font-size: 6vw;
+}
+.social{
+    width: 10vw;
+    height: 10vw;
+}
+.menu_block div a img{
+    height: 9vw;
+    width: 9vw;
+
+}
+#tg{
+    right: 10vw; top: 20vh;
+}
+#yt{
+    right: 20vw; top: 50vh; 
+}
+#bost{
+    right: 70vw; top: 30vh; 
+}
+#inst{
+   left: 60vw; top: 30vh; 
+}
+#git{
+    left: 20vw; top: 50vh;
+}
+#rutube{
+   left: 10vw; top: 5vh;
+}
+#vk{
+    right: 20px; top: 5vh; 
+}
+
+}
+

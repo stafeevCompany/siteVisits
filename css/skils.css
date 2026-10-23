@@ -1,0 +1,31 @@
+.skils_block{
+    filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.752));
+    margin: 10px;
+    background-color: #191919;
+    border-radius: 30px;
+
+}
+
+.skils_block h1{
+    color: whitesmoke;
+    font-size: 6vw;
+    text-align: center;
+    margin: 10px;
+}
+.skils_block h2{
+    color: whitesmoke;
+    margin: 10px;
+    font-size: 3vw;
+}
+marquee{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+marquee img{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 10vw;
+    height: 10vw;
+    
+}

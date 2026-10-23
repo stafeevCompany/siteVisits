@@ -1,0 +1,29 @@
+.aboutMe_block{
+    filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.752));
+    background-color: #191919;
+    border-radius: 20px;
+    width: 40vw;
+    height: 56vh;
+
+}
+.aboutMe_block h1{
+    font-size: 3.7vw;
+    text-align: center;
+    margin: 10px;
+    color: whitesmoke;
+}
+.aboutMe_block p{
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 1.5vw;
+    margin:  0 10px;
+}
+.imgAboutMe_block img{
+    height: 56vh; width: 50vw; border-radius: 20px;  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.752));
+}
+.imgAboutMe_block{
+    justify-content: center; display: flex; width: 60%;
+}
+.aboutMe_blockAndImg{
+    display: flex; padding: 10px; justify-content: center;
+}
