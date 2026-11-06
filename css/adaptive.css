@@ -20,7 +20,7 @@
 .aboutMe_block{
    
     width: 94vw;
-    min-height: 100vw;
+    min-height: 30vh;
     margin-bottom: 20px;
 }
 .aboutMe_block h1{
