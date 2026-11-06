@@ -3,7 +3,7 @@
     background-color: #191919;
     border-radius: 20px;
     width: 40vw;
-    height: 56vh;
+    min-height: 56vh;
     margin: 10px;
 }
 .aboutMe_block h1{
