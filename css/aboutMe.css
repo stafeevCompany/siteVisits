@@ -4,7 +4,7 @@
     border-radius: 20px;
     width: 40vw;
     height: 56vh;
-
+    margin: 10px;
 }
 .aboutMe_block h1{
     font-size: 3.7vw;
@@ -25,5 +25,5 @@
     justify-content: center; display: flex; width: 60%;
 }
 .aboutMe_blockAndImg{
-    display: flex; padding: 10px; justify-content: center;
+    display: flex;  justify-content: center;
 }

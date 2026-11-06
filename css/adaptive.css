@@ -14,12 +14,14 @@
     height: 50vw;
 }
 .aboutMe_blockAndImg{
-    display: block;
+    flex-wrap: wrap;
+    margin: 20px 0 10px 0;
 }
 .aboutMe_block{
    
     width: 94vw;
     min-height: 100vw;
+    margin-bottom: 20px;
 }
 .aboutMe_block h1{
     font-size: 9vw;
